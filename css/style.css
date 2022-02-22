@@ -1,0 +1,90 @@
+
+/*.header{
+    background-color: white;
+    margin: 0px;
+    background-size: cover;
+    overflow: hidden;
+    border-radius: 50px; /*bordes redondos*/
+
+.titulo{
+    font-family: 'The Nautigal', cursive;
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 2px 2px 7px #ffffff;
+}
+
+.subtitulo{
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 100px;
+    margin-top: -80px;
+}
+
+body{
+    background: url(../img/restaurante.jpg)no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.boton{
+    border: 1px solid #000000; /*anchura, estilo y color borde*/
+    padding: 20px; /*espacio alrededor texto*/
+    background-color: #25d366; /*color botón*/
+    color: #ffffff; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    /*text-transform: uppercase; /*capitalización texto*/
+    font-family: 'quicksand'; /*tipografía texto*/
+    border-radius: 30px; /*bordes redondos*/
+}
+
+.wap{
+    size: 20px;
+}
+
+.centrado{
+    text-align: center;
+}
+
+.separador{
+    padding-top: 50px;
+}
+
+.categoria{
+    font-family: 'The Nautigal';
+    font-size: 40px;
+}
+
+.plato{
+    font-family: 'EB Garamond', serif;
+    font-size: 16px;
+}
+
+.plato-detalle{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: bold;
+}
+
+.bloque{
+    background-color: #F5F5DC; /*color botón*/
+    opacity: 80%;
+    border-radius: 20px; /*bordes redondos*/
+    display: inline-block;
+    border: 1px solid #000000; /*anchura, estilo y color borde*/
+    padding: 0px; /*espacio alrededor texto*/
+    margin: auto;
+    /*color: #000000; /*color texto*/
+    /*text-decoration: none; /*decoración texto*/
+    /*text-transform: uppercase; /*capitalización texto*/
+    /*font-family: 'Helvetica', sans-serif; /*tipografía texto*/   
+}
+
+.iconos{
+    size: 20px;
+}
+
+footer{
+    font-family: 'EB Garamond', serif;
+}
