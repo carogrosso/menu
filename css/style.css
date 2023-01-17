@@ -40,8 +40,10 @@ body{
     border-radius: 30px; /*bordes redondos*/
 }
 
-.wap{
-    size: 20px;
+.whatsapp{
+    width: 25px;
+    align-items: center;
+    padding-left: 10px;
 }
 
 .centrado{
@@ -81,10 +83,17 @@ body{
     /*font-family: 'Helvetica', sans-serif; /*tipografía texto*/   
 }
 
-.iconos{
-    size: 20px;
+.pedido{
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
 }
 
 footer{
     font-family: 'EB Garamond', serif;
+}
+
+.redes{
+    width: 50px;
 }
